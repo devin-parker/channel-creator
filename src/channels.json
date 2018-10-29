@@ -1,0 +1,197 @@
+{
+    "option_groups": [
+              {
+                          "label": "Engineering",
+                          "options": [
+                              {
+                                  "label": "Engineering",
+                                  "value": "eng"
+                              }
+                          ]
+                      },
+    {
+            "label": "Support",
+            "options": [
+                    {
+                        "label": "General Support",
+                        "value": "sup"
+                    },
+                    {
+                        "label": "Support Cases",
+                        "value": "sup_case"
+                    },
+            ]
+        },
+        {
+            "label": "Sales/Field",
+            "options": [
+                {
+                    "label": "Sales",
+                    "value": "sales"
+                },
+                {
+                    "label": "FCE",
+                    "value": "fce"
+                }
+            ]
+        },
+        {
+                "label": "Marketing",
+                "options": [
+                    {
+                        "label": "Marketing",
+                        "value": "mrkt"
+                    }
+                ]
+            },
+            {
+                "label": "HR",
+                "options": [
+                    {
+                        "label": "HR",
+                        "value": "hr"
+                    }
+                ]
+            },
+            {
+                "label": "Projects",
+                "options": [
+                    {
+                        "label": "Project",
+                        "value": "proj"
+                    }
+                ]
+            },
+            {
+                "label": "Social/Fun",
+                "options": [
+                    {
+                        "label": "Social",
+                        "value": "social"
+                    },
+                ]
+            },
+            {
+            "label": " US Geo-Based Channels",
+            "options": [
+                    {
+                        "label": "Atlanta",
+                        "value": "atlanta"
+                    },
+                    {
+                        "label": "Austin",
+                        "value": "austin"
+                    },
+                    {
+                        "label": "Bellevue",
+                        "value": "bellevue"
+                    },
+                    {
+                        "label": "Boston",
+                        "value": "boston"
+                    },
+                    {
+                        "label": "Brooklyn",
+                        "value": "brooklyn"
+                    },
+                    {
+                        "label": "Budapest",
+                        "value": "Budapest"
+                    },
+                    {
+                        "label": "Chicago",
+                        "value": "chicago"
+                    },
+                    {
+                        "label": "Nashua",
+                        "value": "nashua"
+                    },
+                    {
+                        "label": "New York",
+                        "value": "new_york"
+                    },
+                    {
+                        "label": "Palo Alto",
+                        "value": "palo_alto"
+                    },
+                    {
+                        "label": "Raleigh",
+                        "value": "raleigh"
+                    },
+                    {
+                        "label": "San Fransico",
+                        "value": "sf"
+                    },
+                    {
+                        "label": "Tysons",
+                        "value": "tysons"
+                    },
+            ]
+        },
+        {
+            "label": " International Geo-Based Channels",
+            "options": [
+                    {
+                        "label": "Australia- Melbourne",
+                        "value": "melbourne"
+                    },
+                    {
+                        "label": "Australia- Sydney",
+                        "value": "sydney"
+                    },
+                    {
+                        "label": "Brazil- Sao Paulo",
+                        "value": "sao_paulo"
+                    },
+                    {
+                        "label": "China- Beijing",
+                        "value": "beijing"
+                    },
+                    {
+                        "label": "China- Shanghai",
+                        "value": "shanghai"
+                    },
+                    {
+                        "label": "France - Paris",
+                        "value": "paris"
+                    },
+                    {
+                        "label": "Germany- München",
+                        "value": "munchen"
+                    },
+                    {
+                        "label": "Hungary- Budapest",
+                        "value": "budapset"
+                    },
+                    {
+                        "label": "India- Chennai",
+                        "value": "chennai"
+                    },
+                    {
+                        "label": "Japan- Tokyo",
+                        "value": "tokyo"
+                    },
+                    {
+                        "label": "Mexico- Mexico City",
+                        "value": "cdmx"
+                    },
+                    {
+                        "label": "Singapore- Singapore",
+                        "value": "sg"
+                    },
+                    {
+                        "label": "South Korea- Seoul",
+                        "value": "seoul"
+                    },
+                    {
+                        "label": "United Arab Emirates- Dubai",
+                        "value": "dubai"
+                    },
+                    {
+                        "label": "United Kingdom- London",
+                        "value": "london"
+                    },
+            ]
+        },
+    ]
+}
